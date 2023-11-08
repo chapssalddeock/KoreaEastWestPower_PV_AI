@@ -1,11 +1,13 @@
-# KoreaEastWestPower_PV_AI
+# ☀️ KoreaEastWestPower_PV_AI
 
-공사중입니다
+수상 인증서는 img dir 안에 있습니다.
 
+## Description
+동서발전 태양광 발전량 예측 AI 경진대회 (21/4/7 ~ 21/7/9)
+개인 부문 : 1위
+주최 : 한국동서발전(주)
+주관 : 데이콘주식회사
 
-Description
-어떤 대회인지, 무슨 상인지 
-What did I do
-내가 무슨 역할인지
-Tech Stack
-뭐 썼는지 등등을 작성
+## What did I do
+데이터 분석 및 모델 개발 
+
