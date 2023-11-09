@@ -1,4 +1,4 @@
-## ☀️ KoreaEastWestPower_PV_AI
+# ☀️ KoreaEastWestPower_PV_AI
 
 동서발전 태양광 발전량 예측 AI 경진대회 (21/4/7 ~ 21/7/9)<br/>
 - 수상 인증서는 img dir 안에 있습니다.
